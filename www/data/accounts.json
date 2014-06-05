@@ -1,0 +1,49 @@
+[
+    {
+        "id": 0,
+        "accountName": "gngeorgiev",
+        "photo": "https://g.twimg.com/business/page/image/11TwitterForSmallBusiness-300_1.png",
+        "friends": [
+            {
+                "id":1
+            },
+            {
+                "id":2
+            },
+            {
+                "id":3
+            },
+            {
+                "id":4
+            },
+            {
+                "id":5
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "accountName": "gaco",
+        "photo": "https://g.twimg.com/business/page/image/11TwitterForSmallBusiness-300_1.png"
+    },
+    {
+        "id": 2,
+        "accountName": "gaco1",
+        "photo": "https://g.twimg.com/business/page/image/11TwitterForSmallBusiness-300_1.png"
+    },
+    {
+        "id": 3,
+        "accountName": "gaco2",
+        "photo": "https://g.twimg.com/business/page/image/11TwitterForSmallBusiness-300_1.png"
+    },
+    {
+        "id": 4,
+        "accountName": "gac3",
+        "photo": "https://g.twimg.com/business/page/image/11TwitterForSmallBusiness-300_1.png"
+    },
+    {
+        "id": 5,
+        "accountName": "gaco4",
+        "photo": "https://g.twimg.com/business/page/image/11TwitterForSmallBusiness-300_1.png"
+    }
+]
